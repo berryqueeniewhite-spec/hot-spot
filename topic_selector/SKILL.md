@@ -1,4 +1,5 @@
 ---
+name:topic ai/scenice -seletor
 description: 自动搜寻并筛选当前最热门、最具传播价值的 AI/科技选题。
 ---
 
