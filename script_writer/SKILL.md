@@ -1,5 +1,5 @@
 ---
-name:科技/AI类口播短视频逐字稿
+name:Verbatim transcript
 description: 专为“AI芝士派”定制的口播脚本创作助手。基于资深科技评论员视角，生成专业、犀利且接地气的科技/AI类短视频逐字稿。
 ---
 
